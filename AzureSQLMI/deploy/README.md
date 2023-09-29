@@ -10,7 +10,7 @@ In this section, you will provision all Azure resources required to complete thi
 |[**Bicep**](#bicep)                | [![bicep](../../media/Bicep-Logo.svg)](#bicep)                                        |
 |[**Terraform**](#terraform)        | [![terraform](../../media/Terraform-Logo.svg)](#terraform)                            |
 
-## Deployment diagram
+## Architecture diagram
 
 ![resource-visualizer](/media/sql-mi-architecture.png)
 
