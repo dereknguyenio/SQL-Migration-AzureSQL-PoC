@@ -12,7 +12,7 @@ In this section, you will provision all Azure resources required to complete thi
 
 ## Deployment diagram
 
-![resource-visualizer](/media/sqlmi-resource-visualizer.png)
+![resource-visualizer](/media/sqlmi-architecture.png)
 
 ## Azure Resource Manager
 
